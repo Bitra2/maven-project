@@ -1,0 +1,4 @@
+This is text file for building purpose
+Nature doesn't need people, people need nature
+git fatch: By using this commend  to hide the code in staging aera and indix area.
+merage the code from to one branch to another branch with CID by using git merage command.
